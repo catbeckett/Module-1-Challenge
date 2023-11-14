@@ -10,4 +10,4 @@
 * I learned that Semantic HTML elements do more than allow data to be shared and reused across applications, enterprises, and communities.
 
 ## Project Outputs
-* This project stands out because it demonstrates how websites are used by users of varying ability. 
+* This project stands out because it demonstrates how websites are used by users of varying abilities in the real world. 
