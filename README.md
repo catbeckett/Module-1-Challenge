@@ -11,3 +11,7 @@
 
 ## Project Outputs
 * This project stands out because it demonstrates how websites are used by users of varying abilities in the real world. 
+
+```md
+    ![screenshot](assets/images/screenshot.png)
+```
